@@ -1,0 +1,10 @@
+# restored 2026-09-18T03:07:44+05:30
+# entry                      source_hash     restored_hash   status
+payments/db-master           9f2c41ab07d3    9f2c41ab07d3    ok
+payments/ledger-signing      4be7d0119a62    4be7d0119a63    MISMATCH
+prime/session-secret         c31a88e05f7b    c31a88e05f7b    ok
+prime/oauth-client           77d02b6e91c4    77d02b6e91c5    MISMATCH
+logistics/route-api          a05e33f7d218    a05e33f7d218    ok
+logistics/warehouse-master   e9b4c07a3d51    e9b4c07a3d50    MISMATCH
+identity/root-ca-passphrase  12f8ad6c40be    12f8ad6c40be    ok
+identity/hsm-pin             d6403e9b17aa    d6403e9b17ab    MISMATCH
